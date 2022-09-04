@@ -1,4 +1,4 @@
-package paths;
+package leetcode.paths;
 
 import java.util.Scanner;
 

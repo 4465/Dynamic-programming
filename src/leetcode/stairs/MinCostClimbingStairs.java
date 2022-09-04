@@ -1,4 +1,4 @@
-package stairs;
+package leetcode.stairs;
 
 import java.util.*;
 
